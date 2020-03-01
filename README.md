@@ -1,4 +1,6 @@
-# supermall
+# fmall
+
+## 只有首页，详情页，和商品到购物车的功能
 
 ## Project setup
 ```
